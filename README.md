@@ -31,30 +31,20 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🚀 Projetos em destaque
+### 🚀 Projetos
 
-| Projeto | Descrição |
-|---|---|
-| **Versionamento de prompts** | Laboratório para versionar e organizar prompts de agentes de IA |
-| **Sistema multiagente** | Cadastro e organização de materiais com múltiplos agentes de IA |
-| **Dashboard de filmes** | Visualização e análise de dados no Looker Studio |
+- **[Cassino_777](https://github.com/Rafael-Inacio-Silva/Cassino_777)** — Simulação de cassino online *full-stack*: cadastro e login, carteira de saldo de demonstração e jogos (roleta e blackjack) com a lógica de jogo executada no servidor. `Node.js` · `React` · `PostgreSQL`
+- **[Multiagentes-Cadastro-Materiais](https://github.com/Rafael-Inacio-Silva/Multiagentes-Cadastro-Materiais)** — Sistema **multiagente** que extrai informações de desenhos técnicos e automatiza o cadastro de materiais. `Python` · `IA`
+- **[Dashboard-Filmes-Looker](https://github.com/Rafael-Inacio-Silva/Dashboard-Filmes-Looker)** — Dashboard de **visualização e análise de dados** sobre filmes, construído no Looker Studio. `Looker Studio`
+- **automacao-doutoragenda** 🔒 *(privado)* — Criação de **agentes de IA** para automação de agendamento. `Python`
 
 ### 🌱 Áreas de interesse
 
 `Engenharia de Software` · `Inteligência Artificial` · `Engenharia de Prompt` · `Agentes de IA` · `Visualização de Dados`
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafael-Inacio-Silva&show_icons=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Inacio-Silva&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
