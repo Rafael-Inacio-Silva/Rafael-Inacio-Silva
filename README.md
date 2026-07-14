@@ -41,7 +41,7 @@
 - **[Cassino_777](https://github.com/Rafael-Inacio-Silva/Cassino_777)** — Simulação de cassino online *full-stack*: cadastro e login, carteira de saldo de demonstração e jogos (roleta e blackjack) com a lógica de jogo executada no servidor. `Node.js` · `React` · `PostgreSQL`
 - **[Multiagentes-Cadastro-Materiais](https://github.com/Rafael-Inacio-Silva/Multiagentes-Cadastro-Materiais)** — Sistema **multiagente** que extrai informações de desenhos técnicos e automatiza o cadastro de materiais. `Python` · `IA`
 - **[Dashboard-Filmes-Looker](https://github.com/Rafael-Inacio-Silva/Dashboard-Filmes-Looker)** — Dashboard de **visualização e análise de dados** sobre filmes, construído no Looker Studio. `Looker Studio`
-- **automacao-doutoragenda** 🔒 *(privado)* — Criação de **agentes de IA** para automação de agendamento. `Python`
+- **Automacao-doutoragenda** 🔒 *(privado)* — Criação de **agentes de IA** para automação de agendamento. `Python`
 
 ### 🌱 Áreas de interesse
 
