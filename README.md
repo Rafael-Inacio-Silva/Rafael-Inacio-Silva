@@ -38,6 +38,7 @@
 ### 🚀 Projetos
 
 - **AuditorIA** 🔒 *(repositório privado)* — SaaS de **QA e auditoria automatizada para agentes conversacionais**: simula clientes, testa regras e cenários críticos, identifica falhas e gera relatórios técnicos e *white-label*. [Ver landing pública](https://auditoria-tau.vercel.app). `Python` · `FastAPI` · `Next.js` · `PostgreSQL` · `IA`
+- **[GeoVale](https://github.com/Rafael-Inacio-Silva/Geo_Vale)** — MVP demonstrativo **em desenvolvimento** para apoiar a comparação de usos futuros de áreas pós-mineração, com geoprocessamento, análise multicritério e Machine Learning previstos. `Geoprocessamento` · `Análise de Dados` · `Machine Learning`
 - **[Cassino_777](https://github.com/Rafael-Inacio-Silva/Cassino_777)** — Simulação de cassino online *full-stack*: cadastro e login, carteira de saldo de demonstração e jogos (roleta e blackjack) com a lógica de jogo executada no servidor. `Node.js` · `React` · `PostgreSQL`
 - **[Multiagentes-Cadastro-Materiais](https://github.com/Rafael-Inacio-Silva/Multiagentes-Cadastro-Materiais)** — Sistema **multiagente** que extrai informações de desenhos técnicos e automatiza o cadastro de materiais. `Python` · `IA`
 - **[Dashboard-Filmes-Looker](https://github.com/Rafael-Inacio-Silva/Dashboard-Filmes-Looker)** — Dashboard de **visualização e análise de dados** sobre filmes, construído no Looker Studio. `Looker Studio`
